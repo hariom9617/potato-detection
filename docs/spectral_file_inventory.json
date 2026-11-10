@@ -1,0 +1,950 @@
+[
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\gr1.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\gr1.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "gr1",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 198.0,
+      "max": 14106.0,
+      "mean": 6502.783903859259,
+      "std": 3968.842361608942,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\gr2.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\gr2.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "gr2",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 225.0,
+      "max": 14163.0,
+      "mean": 5903.2564798,
+      "std": 4147.241752724869,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\gr3.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\gr3.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "gr3",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 290.0,
+      "max": 13969.0,
+      "mean": 7356.523327392592,
+      "std": 3837.818703662697,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\gr4.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\gr4.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "gr4",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 210.0,
+      "max": 13925.0,
+      "mean": 6671.636088162963,
+      "std": 4125.2578880976425,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\gr5.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\gr5.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "gr5",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 161.0,
+      "max": 13851.0,
+      "mean": 4560.429992037037,
+      "std": 3999.2682024473243,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Healthy1.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Healthy1.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "Healthy1",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 263.0,
+      "max": 13671.0,
+      "mean": 6220.0157031555555,
+      "std": 3961.5918429651006,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Healthy2.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Healthy2.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "Healthy2",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 277.0,
+      "max": 13637.0,
+      "mean": 5849.6312202222225,
+      "std": 4036.610523736659,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Healthy3.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Healthy3.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "Healthy3",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 214.0,
+      "max": 13932.0,
+      "mean": 5456.402357977778,
+      "std": 4049.1678138946395,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Rott1.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Rott1.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "Rott1",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 143.0,
+      "max": 15346.0,
+      "mean": 6357.2949241407405,
+      "std": 4067.2294844266357,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Rott2.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Rott2.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "Rott2",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 172.0,
+      "max": 15528.0,
+      "mean": 6023.801391,
+      "std": 4127.524027572827,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Rott3.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Rott3.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "Rott3",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 115.0,
+      "max": 15403.0,
+      "mean": 4402.4043130296295,
+      "std": 4012.393659188635,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Rott4.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Rott4.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "Rott4",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 171.0,
+      "max": 15589.0,
+      "mean": 6690.5819544666665,
+      "std": 4082.90791045762,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Rott5.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Rott5.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "Rott5",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 104.0,
+      "max": 15648.0,
+      "mean": 7111.0734126740745,
+      "std": 4027.7450185404473,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Shr1.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\Shr1.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "Shr1",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 217.0,
+      "max": 15921.0,
+      "mean": 7254.4991403259255,
+      "std": 3820.080611607653,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr10 (2).bil",
+    "hdr_file": "NOT FOUND",
+    "status": "error",
+    "error": "Missing header file"
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr2.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr2.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "shr2",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 285.0,
+      "max": 15954.0,
+      "mean": 7623.933217081481,
+      "std": 3727.7152441243547,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr3.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr3.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "shr3",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 330.0,
+      "max": 15837.0,
+      "mean": 8372.161014948148,
+      "std": 3326.776928062757,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr4.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr4.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "shr4",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 318.0,
+      "max": 14696.0,
+      "mean": 8770.438738392593,
+      "std": 3054.9302052260387,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr5.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr5.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "shr5",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 296.0,
+      "max": 13939.0,
+      "mean": 7937.285706392592,
+      "std": 3570.685424617832,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr6.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr6.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "shr6",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 258.0,
+      "max": 65535.0,
+      "mean": 8412.653069118518,
+      "std": 4986.115580070269,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr7.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr7.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "shr7",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 302.0,
+      "max": 65535.0,
+      "mean": 9063.542961896297,
+      "std": 5578.322924653932,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\shr9 (2).bil",
+    "hdr_file": "NOT FOUND",
+    "status": "error",
+    "error": "Missing header file"
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr1.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr1.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "spr1",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 203.0,
+      "max": 14301.0,
+      "mean": 6312.595866874074,
+      "std": 3845.2195135211646,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr2.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr2.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "spr2",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 239.0,
+      "max": 13938.0,
+      "mean": 6918.376004533333,
+      "std": 3573.61904645918,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr3.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr3.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "spr3",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 344.0,
+      "max": 14546.0,
+      "mean": 7715.585427703703,
+      "std": 3391.3190217825445,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr4.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr4.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "spr4",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 306.0,
+      "max": 15003.0,
+      "mean": 7390.493842118519,
+      "std": 3737.4845245842457,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr5.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr5.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "spr5",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 302.0,
+      "max": 15547.0,
+      "mean": 7404.2423354,
+      "std": 3762.124004431517,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  },
+  {
+    "bil_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr6.bil",
+    "hdr_file": "D:\\Important Projects\\dataset\\IIT DATASET\\potato\\spr6.bil.hdr",
+    "status": "readable",
+    "error": null,
+    "metadata": {
+      "lines": "500",
+      "samples": "900",
+      "bands": "300",
+      "data_type": "12",
+      "interleave": "bil",
+      "byte_order": "0",
+      "wavelength_range": "378.35 - 1014.01 nm",
+      "label": "spr6",
+      "reflectance_scale_factor": "10000",
+      "imager": "Pika L-643"
+    },
+    "data_stats": {
+      "shape": [
+        500,
+        300,
+        900
+      ],
+      "dtype": "uint16",
+      "min": 217.0,
+      "max": 15262.0,
+      "mean": 7278.454380066667,
+      "std": 3794.361786173671,
+      "finite_percentage": 100.0,
+      "nan_count": 0,
+      "inf_count": 0,
+      "zero_count": 0,
+      "zero_percentage": 0.0,
+      "size_mb": 257.4920654296875
+    }
+  }
+]

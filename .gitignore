@@ -1,0 +1,164 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+env/
+ENV/
+.venv
+
+# PyTorch
+*.pt
+*.pth
+*.onnx
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data
+data/raw/
+data/processed/
+data/splits/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.npy
+*.npz
+*.csv
+*.h5
+*.hdf5
+
+# Models and checkpoints
+models/
+checkpoints/
+*.weights
+runs/
+wandb/
+
+# Logs
+logs/
+*.log
+*.out
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+lerna-debug.log*
+.next/
+out/
+dist/
+build/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+coverage/
+*.cover
+.hypothesis/
+.tox/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Docker
+*.dockerfile.swp
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# Secrets and credentials
+secrets/
+credentials/
+*.pem
+*.key
+*.cert
+*.crt
+
+# Large files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Markdown documentation files
+*.md
+
+# Dataset directories (too large for git)
+yolo_detection_dataset/
+dataset/
+data/
+potato-dataset-audit/
+potato-dataset-audit-corrected/
+dataset-manifests/
+exploratory_analysis_outputs/
+
+# Documentation build
+docs/_build/
+site/
+
+# ML experiment tracking
+mlruns/
+.mlflow/
+experiments/
+
+# Alembic
+alembic/versions/*.pyc
+
+# Frontend
+.turbo/
+.vercel/
+
+# Local configuration overrides
+local_config.yaml
+local_settings.py
