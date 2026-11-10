@@ -24,6 +24,7 @@ venv/
 env/
 ENV/
 .venv
+venv_test/
 
 # PyTorch
 *.pt
